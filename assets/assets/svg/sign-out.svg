@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.532" height="22.076" viewBox="0 0 20.532 22.076">
+  <g id="streamline-icon-interface-login_48x48" data-name="streamline-icon-interface-login@48x48" transform="translate(1 1)">
+    <g id="Group_308" data-name="Group 308" transform="translate(0 0)">
+      <path id="Path_308" data-name="Path 308" d="M14.069,22.791H3.259A2.547,2.547,0,0,1,.714,20.246V3.259A2.547,2.547,0,0,1,3.259.714h10.81a2.547,2.547,0,0,1,2.544,2.544V7.119a1,1,0,0,1-2,0V3.259a.545.545,0,0,0-.544-.544H3.259a.545.545,0,0,0-.544.544V20.246a.545.545,0,0,0,.544.544h10.81a.545.545,0,0,0,.544-.544V16.385a1,1,0,1,1,2,0v3.861A2.547,2.547,0,0,1,14.069,22.791Z" transform="translate(-1.714 -1.714)" fill="#fff"/>
+      <path id="Line_53" data-name="Line 53" d="M12.355,1H0A1,1,0,0,1-1,0,1,1,0,0,1,0-1H12.355a1,1,0,0,1,1,1A1,1,0,0,1,12.355,1Z" transform="translate(6.177 10.038)" fill="#fff"/>
+      <path id="Path_309" data-name="Path 309" d="M18.517,24.32a1,1,0,0,1-.707-.293l-3.089-3.089a1,1,0,0,1,0-1.414l3.089-3.089a1,1,0,0,1,1.414,1.414l-2.382,2.382,2.382,2.382a1,1,0,0,1-.707,1.707Z" transform="translate(-9.251 -10.193)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
